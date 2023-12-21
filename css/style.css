@@ -1,0 +1,24 @@
+
+
+.main-page{
+    background-image: url(../images/moon_sea_night_beach_4k_hd.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.main-page .main-context{
+    background-color: rgba(1, 1, 1, 0.7);
+    border-radius: 5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main-page .main-context .pic{
+    height: 8rem;
+}
+.main-page .main-context .pic img{
+    height: 100%;
+    width: 8rem;
+    border-radius: 50%;
+}
+.main-page .main-context button{
+    padding: 2rem 4rem;
+    
+}
